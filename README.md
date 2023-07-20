@@ -52,6 +52,3 @@ During the development of this project, we encountered several challenges, inclu
 
 Contributions to the project are welcome. If you encounter any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue in the project repository.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
